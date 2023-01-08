@@ -1,0 +1,183 @@
+
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults or not? (Yes);Do you know in which condition is this vaccine applicable? (Yes);Have you taken this vaccine? (No)
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (Yes);Have you taken this vaccine? (No);Reason for not taking the vaccine - Any other
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (Yes);Have you taken this vaccine? (Yes)
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (Yes);Have you taken this vaccine? (Yes)
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Any other
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know in which condition is this vaccine applicable? (Yes);Have you taken this vaccine? (Yes)
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No)
+Do you know whether this vaccine is taken in adults ? (Yes)
+Have you heard of this vaccine? (Yes)
+Have you heard of this vaccine? (Yes)
+Have you heard of this vaccine? (No)
+Have you heard of this vaccine? (No)
+Have you heard of this vaccine? (Yes)
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Reason for not taking the vaccine - Unaware;Reason for not taking the vaccine - Not recommended by doctor
+
+Have you heard of this vaccine? (No)
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Not recommended by doctor
+
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes)
+
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes)
+Have you heard of this vaccine? (Yes)
+Do you know in which condition is this vaccine applicable? (No)
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (Yes);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes)
+Do you know whether this vaccine is taken in adults ? (Yes)
+Have you taken this vaccine? (No);Reason for not taking the vaccine - Not recommended by doctor
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (Yes);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (Yes);Have you taken this vaccine? (Yes);Reason for not taking the vaccine - Not recommended by doctor
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Reason for not taking the vaccine - Any other
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes)
+
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (Yes);Have you taken this vaccine? (No);Reason for not taking the vaccine - Any other
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes)
+Have you heard of this vaccine? (Yes)
+Have you heard of this vaccine? (Yes)
+
+Have you heard of this vaccine? (Yes)
+Have you heard of this vaccine? (Yes)
+Have you heard of this vaccine? (Yes);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (Yes)
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (Yes)
+Have you heard of this vaccine? (No)
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Cost of vaccine
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (Yes);Have you taken this vaccine? (Yes)
+
+Do you know whether this vaccine is taken in adults ? (No)
+Have you heard of this vaccine? (Yes)
+Have you heard of this vaccine? (Yes)
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (Yes);Have you taken this vaccine? (No);Reason for not taking the vaccine - Any other
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (Yes);Have you taken this vaccine? (No);Reason for not taking the vaccine - Any other
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Any other
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (Yes);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware;Reason for not taking the vaccine - Not recommended by doctor
+Do you know whether this vaccine is taken in adults ? (Yes)
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No)
+Have you heard of this vaccine? (Yes)
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes)
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (Yes);Have you taken this vaccine? (No);Reason for not taking the vaccine - Any other
+Have you heard of this vaccine? (Yes)
+Have you heard of this vaccine? (Yes)
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No)
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (Yes);Have you taken this vaccine? (No);Reason for not taking the vaccine - Any other
+Do you know whether this vaccine is taken in adults ? (Yes)
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes)
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes)
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (Yes);Have you taken this vaccine? (No);Reason for not taking the vaccine - Any other
+Have you heard of this vaccine? (Yes)
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes)
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (Yes);Reason for not taking the vaccine - Not recommended by doctor
+Have you heard of this vaccine? (Yes)
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (Yes)
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (Yes);Have you taken this vaccine? (No);Reason for not taking the vaccine - Any other
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware;Reason for not taking the vaccine - Not recommended by doctor
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (Yes);Have you taken this vaccine? (Yes)
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes)
+Do you know whether this vaccine is taken in adults ? (Yes)
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes)
+Have you heard of this vaccine? (Yes);Do you know in which condition is this vaccine applicable? (Yes);Have you taken this vaccine? (Yes)
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (Yes);Have you taken this vaccine? (No);Reason for not taking the vaccine - Any other
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Do you know in which condition is this vaccine applicable? (Yes);Have you taken this vaccine? (No)
+Have you heard of this vaccine? (Yes)
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (Yes);Have you taken this vaccine? (No);Reason for not taking the vaccine - Any other
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+
+Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (Yes)
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No)
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (Yes);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (No)
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (Yes);Do you know in which condition is this vaccine applicable? (Yes);Have you taken this vaccine? (No);Reason for not taking the vaccine - Unaware
+Have you heard of this vaccine? (Yes);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (Yes);Have you taken this vaccine? (No);Reason for not taking the vaccine - Any other
+
+Have you heard of this vaccine? (No);Do you know whether this vaccine is taken in adults ? (No);Do you know in which condition is this vaccine applicable? (No);Have you taken this vaccine? (No);Reason for not taking the vaccine - Not recommended by doctor
